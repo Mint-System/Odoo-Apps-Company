@@ -13,9 +13,9 @@
     'author': "Mint System GmbH",
     'website': "https://www.mint-system.ch",
     'category': 'Customizations',
-    'version': '14.0.1.0.0',
+    'version': '14.0.1.0.1',
 
-    'depends': ['base'],
+    'depends': ['web'],
 
     'data': [
         'views/web.external_layout_standard.xml',
